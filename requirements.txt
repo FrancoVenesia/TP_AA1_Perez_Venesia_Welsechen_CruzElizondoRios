@@ -1,4 +1,4 @@
-# Requerimientos estables y compatibles python 3.12.10
+# Requerimientos estables y compatibles con Python 3.11.9
 pandas==2.1.4
 numpy==1.26.4
 scipy==1.11.4
